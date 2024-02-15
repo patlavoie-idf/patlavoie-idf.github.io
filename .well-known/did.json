@@ -12,7 +12,7 @@
         "publicKeyJwk": {
             "kty": "EC",
             "crv":"secp256k1",
-            "x": "BX9w7lLpr3EcdOQ8LO/eQ4jlrql7xQ8OuJj+zjCbV/E=",
+            "x": "16eZ6ItDNdjPXiy6XM8+RqnA740vc31yIc9pX/In6wE=",
             "y": "w9j1ZGrTDDRdQ8LX41vov5GrCaej4NXq1G7kS/z9zvw="
         }
       }
